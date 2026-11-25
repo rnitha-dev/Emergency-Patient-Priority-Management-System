@@ -1,0 +1,10 @@
+101|Arun|45|Male|9876543210|Cardiac Arrest|1|1795107098892|Ambulance intake|true|Treated at 2026-11-19 22:21:38
+101|Arun Sharma|45|Male|9876543210|Cardiac Arrest|1|1795111607678|Arrived via ICU Ambulance|true|Treated at 2026-11-19 23:37:13
+101|Arun Sharma|45|Male|9876543210|Cardiac Arrest|1|1795111744139|Arrived via ICU Ambulance|true|Treated at 2026-11-19 23:39:27
+102|Sunita Rao|32|Female|9876543211|Severe Bleeding|1|1795111744139|Laceration in emergency trauma bay|true|Treated at 2026-11-19 23:54:57
+838|Rohan Verma|48|Male|9870001|Cardiac Arrest|1|1795111783149|Desk A - Critical Intake|true|Treated at 2026-11-20 00:26:15
+101|Sarah|45|Male|1234567899|Cardiac Arrest|1|1795112683820||false|Treated at 2026-11-20 00:26:21
+836|Rohan Verma|48|Male|9870001|Cardiac Arrest|1|1795114536859|Desk A - Critical Intake|true|Treated at 2026-11-20 00:26:27
+999|Test Web Patient|35|Female|9988776655|Cardiac Arrest|2|1795111766777|Web API automated test|true|Treated at 2026-11-20 00:26:34
+839|Anita Roy|34|Female|9870002|Severe Bleeding|2|1795111783149|Desk B - Trauma Intake|true|Treated at 2026-11-20 00:26:44
+837|Anita Roy|34|Female|9870002|Severe Bleeding|2|1795114536859|Desk B - Trauma Intake|true|Treated at 2026-11-20 00:26:52
